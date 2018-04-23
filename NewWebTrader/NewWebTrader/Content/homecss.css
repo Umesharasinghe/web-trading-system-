@@ -1,0 +1,101 @@
+.navbar{
+margin-button:0;
+border-radius:0;
+background-color:#0a1010;
+color:#FFF;
+padding: 0.5% 5%;
+font-size:1.2em;
+border:0;
+}
+
+}
+.navbar-brand{
+float: left;
+min-height: 45px;
+padding: 0 15px 5px ;
+
+}
+.navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:focus, .navbar-inverse .navbar-nav .active a:hover {
+color:#FFF;
+background-color:#333333;
+ }
+.navbar-inverse .navbar-nav li a{
+color:#D5D5D5;
+}
+
+.fullscreen-bg {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+}
+
+
+
+
+#video-background {
+  position: fixed;
+  right: 0; 
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+  width: auto; 
+  height: auto;
+  z-index: -100;
+}
+.text-center{
+position:absolute;
+top:30%;
+   left:40%;
+
+   }
+  
+  
+  .btn-work {
+    width: 250px;
+    height: 30px;
+   
+    padding: 0;
+    display: table-cell;
+    vertical-align: middle;
+	
+}
+
+.btn-default{
+font-family: "Verdana";
+font-size:16px;
+color:#FFF;
+padding:8px 22px;
+background-color:#333333;
+border:1.5px solid white;
+}
+
+
+
+
+
+ #btn-sign {
+     position: absolute;
+     top: 5%;
+     right: 5%;
+	 }
+	
+img {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    
+}
+
+.sideNav{
+	margin-top:180px;
+	margin-left:300px;
+	margin-bottom:10%;
+}
+.sidePanel{
+	margin-top:150px;
+	margin-right:20px;
+	margin-bottom:10%;

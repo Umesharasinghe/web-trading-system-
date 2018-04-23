@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewBag.Title = "Upload";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="box box-primary">
+    <div class="box-header with-border">
+        <h3 class="box-title">Upload Reports</h3>
+    </div>
+
+    <form method="post" enctype="multipart/form-data">
+        <div class="box-body">
+            @Html.ValidationSummary("", new { @class = "text-danger" })
+            <div class="form-group">
+                <label>Year</label>
+                <input type="text" name="Year" class="form-control" placeholder="Enter Year">
+            </div>
+
+            <div class="form-group">
+                <label>Report Pdf</label>
+                <input type="file" name="File1" id="files_0" />
+
+                <p class="help-block">upload a pdf file</p>
+            </div>
+
+            <div class="form-group">
+                <label>Report Image</label>
+                <input type="file" name="File2" id="files_1" />
+
+                <p class="help-block">upload a jpg file</p>
+            </div>
+        </div>
+
+        <div class="box-footer">
+        <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+    </form>
+</div>
+

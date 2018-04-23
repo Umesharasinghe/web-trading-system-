@@ -1,0 +1,361 @@
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\ApplicationInsights.config
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\roslyn\csc.exe
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\roslyn\vbc.exe
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\roslyn\VBCSCompiler.exe
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\NewWebTrader.dll.config
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\NewWebTrader.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\NewWebTrader.pdb
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Antlr3.Runtime.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\EntityFramework.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\EntityFramework.SqlServer.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.AI.Web.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.ApplicationInsights.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Google.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Newtonsoft.Json.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Owin.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\System.Web.Helpers.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\System.Web.Mvc.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\System.Web.Optimization.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\System.Web.Razor.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\System.Web.WebPages.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\System.Web.WebPages.Razor.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\WebGrease.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.AI.Web.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.AI.WindowsServer.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.ApplicationInsights.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\System.Web.Helpers.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\System.Web.Mvc.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\System.Web.Optimization.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\System.Web.Razor.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\System.Web.WebPages.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\System.Web.WebPages.Razor.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Antlr3.Runtime.pdb
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Newtonsoft.Json.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\EntityFramework.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\EntityFramework.SqlServer.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Google.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.csprojResolveAssemblyReference.cache
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.dll
+E:\Projects\MVCProjects\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.pdb
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\ApplicationInsights.config
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\roslyn\csc.exe
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\roslyn\vbc.exe
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\NewWebTrader.dll.config
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\NewWebTrader.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\NewWebTrader.pdb
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Antlr3.Runtime.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\EntityFramework.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\EntityFramework.SqlServer.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.AI.Web.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Newtonsoft.Json.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Owin.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\System.Web.Helpers.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\System.Web.Mvc.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\System.Web.Optimization.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\System.Web.Razor.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\System.Web.WebPages.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\WebGrease.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.AI.Web.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\System.Web.Helpers.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\System.Web.Mvc.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\System.Web.Optimization.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\System.Web.Razor.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\System.Web.WebPages.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Antlr3.Runtime.pdb
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Newtonsoft.Json.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\EntityFramework.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\EntityFramework.SqlServer.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.Migrations.InitialCreate.resources
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.Migrations.MarketTableCreate.resources
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.Migrations.newMArketTable.resources
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.csproj.GenerateResource.Cache
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.dll
+C:\Users\Dhananjaya Weerakoon\Desktop\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.pdb
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\ApplicationInsights.config
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\roslyn\csc.exe
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\NewWebTrader.dll.config
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\NewWebTrader.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\NewWebTrader.pdb
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\EntityFramework.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Owin.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\WebGrease.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\EntityFramework.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.Migrations.InitialCreate.resources
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.Migrations.MarketTableCreate.resources
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.Migrations.newMArketTable.resources
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.pdb
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.Migrations.NewsTable.resources
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\System.Web.Http.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\System.Web.Http.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.Migrations.passwordcolumn.resources
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\NewsAPI.dll
+C:\Users\User\Desktop\newdb\NewWebTrader\NewWebTrader\bin\NewsAPI.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\ApplicationInsights.config
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\NewWebTrader.dll.config
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\NewWebTrader.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\NewWebTrader.pdb
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\EntityFramework.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\NewsAPI.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Owin.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\System.Web.Http.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\WebGrease.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\NewsAPI.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\System.Web.Http.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\EntityFramework.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.Migrations.InitialCreate.resources
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.Migrations.MarketTableCreate.resources
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.Migrations.newMArketTable.resources
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.Migrations.NewsTable.resources
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.Migrations.passwordcolumn.resources
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.dll
+C:\Users\User\Desktop\Final Project\NewWebTrader\NewWebTrader\obj\Debug\NewWebTrader.pdb

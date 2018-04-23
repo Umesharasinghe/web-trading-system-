@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "../Shared/_LayoutNew.cshtml";
+}
+
+@if (ViewBag.First != null)
+{
+    <div class="callout callout-info">
+        <h4>Hot Events! - @ViewBag.First.Title</h4>
+
+        <p>@ViewBag.First.Content</p>
+    </div>
+}
+
+
+
+    <div class="box">
+        <div class="box-header with-border">
+            <h3 class="box-title">Events</h3>
+        </div>
+        <!-- /.box-header -->
+        <div class="box-body">
+            <table class="table table-bordered">
+                <tbody>
+                    <tr>
+                        <th>Title</th>
+                        <th>Content</th>
+                        <th>Delete</th>
+                    </tr>
+
+                    @foreach (var events in ViewBag.EventList)
+                    {
+
+                        <tr>
+                            <td>@events.Title</td>
+                            <td>
+                                @events.Content
+                            </td>
+                            <td><a href="@Url.Action("Delete", "Event", new { id = events.Id})">Delete</a></td>
+                        </tr>
+                    }
+
+
+                </tbody>
+            </table>
+        </div>
+        <!-- /.box-body -->
+        <div class="box-footer clearfix">
+        </div>
+    </div>
+
+<div style="height:200px;"></div>
+

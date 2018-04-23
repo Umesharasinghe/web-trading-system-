@@ -1,0 +1,50 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+
+<div class="fullscreen-bg">
+    <video autoplay loop muted id="video-background">
+        <source src="~/Content/image/anime.mp4" type="video/mp4">
+    </video>
+
+   
+
+    <div id="container" style="width:100%;">
+
+        <div id="left" style="float:left; width:50%;">
+            <div class="sideNav">
+                <a class="btn btn-default btn-work" href="@Url.Action("Index", "Market")">Markets</a><br>
+                <a class="btn btn-default btn-work" href="@Url.Action("Index", "Event")">Events</a><br>
+                <a class="btn btn-default btn-work" href="@Url.Action("Index", "Learn")">Learn</a><br>
+                <a class="btn btn-default btn-work" href="@Url.Action("Index", "News")">News</a><br />
+                <a class="btn btn-default btn-work" href="@Url.Action("Index", "Report")">Annual Reports</a><br />
+
+                @if (User.IsInRole("Admin"))
+                {
+                    <a class="btn btn-default btn-work" href="@Url.Action("Register", "Account")">Register an Admin</a><br>
+                }
+
+            </div>
+
+
+
+        </div>
+    </div>
+    <div id="right" style="float:right; width:50%;">
+        <div class="sidePanel">
+            <div class="account-wall" style="opacity:initial">
+                <h1 class="login-title"><center>Welcome to WebTrader</center></h1>
+                <p style="color:white;">The foreign exchange market is the "place" where currencies are traded. Currencies are important to most people around the world, whether they realize it or not, because currencies need to be exchanged in order to conduct foreign trade and business. If you are living in the U.S. and want to buy cheese from France, either you or the company that you buy the cheese from has to pay the French for the cheese in euros (EUR). This means that the U.S. importer would have to exchange the equivalent value of U.S. dollars (USD) into euros. The same goes for traveling. A French tourist in Egypt can't pay in euros to see the pyramids because it's not the locally accepted currency. As such, the tourist has to exchange the euros for the local currency, in this case the Egyptian pound, at the current exchange rate. </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    var x = "@(ViewBag.Message)";
+    if (x != null && x != "") {
+        alert(x);
+    }
+</script>

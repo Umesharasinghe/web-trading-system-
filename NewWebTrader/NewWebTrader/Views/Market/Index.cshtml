@@ -1,0 +1,123 @@
+﻿
+@{
+    Layout = "~/Views/Shared/LayoutIndicators.cshtml";
+}
+
+
+<div class="box box-primary">
+    <div class="box-header with-border">
+        <h3 class="box-title">Quick Example</h3>
+    </div>
+    <!-- /.box-header -->
+    <!-- form start -->
+    <form role="form">
+        <div class="box-body">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="form-group">
+                        <label>USD</label>
+                        <input type="text" class="form-control" id="usd" onkeypress="setTimeout(usdfunc, 100);" placeholder="USD">
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="form-group">
+                        <label>CHF</label>
+                        <input type="text" class="form-control" id="chf" onkeypress="setTimeout(chffunc, 100);" placeholder="CHF">
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="form-group">
+                        <label>JPY</label>
+                        <input type="text" class="form-control" id="jpy" onkeypress="setTimeout(jpyfunc, 100);" placeholder="JPY">
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="form-group">
+                        <label>EUR</label>
+                        <input type="text" class="form-control" id="eur" onkeypress="setTimeout(eurfunc, 100);" placeholder="EUR">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+
+
+<h2>What is the 'Forex Market'?</h2>
+
+<p>The forex market is the market in which participants can buy, sell, exchange, and speculate on currencies. The forex market is made up of banks, commercial companies, central banks, investment management firms, hedge funds, and retail forex brokers and investors. The currency market is considered to be the largest financial market with over $5 trillion in daily transactions, which is more than the futures and equity markets combined.
+
+Read more: Forex Market | Investopedia https://www.investopedia.com/terms/forex/f/forex-market.asp#ixzz55gBXE1bn
+Follow us: Investopedia on Facebook
+</p>
+
+<h2>BREAKING DOWN 'Forex Market'</h2>
+
+<p>
+    What is the 'Forex Market'
+
+    The forex market is the market in which participants can buy, sell, exchange, and speculate on currencies. The forex market is made up of banks, commercial companies, central banks, investment management firms, hedge funds, and retail forex brokers and investors. The currency market is considered to be the largest financial market with over $5 trillion in daily transactions, which is more than the futures and equity markets combined.
+    BREAKING DOWN 'Forex Market'
+
+    The foreign exchange market is not dominated by a single market exchange, but a global network of computers and brokers from around the world. Forex brokers act as market makers as well, and may post bid and ask prices for a currency pair that differs from the most competitive bid in the market.
+
+    The forex market is made up of two levels; the interbank market and the over-the-counter (OTC) market. The interbank market is where large banks trade currencies for purposes such as hedging, balance sheet adjustments, and on behalf of clients. The OTC market is where individuals trade through online platforms and brokers.
+
+    Read more: Forex Market | Investopedia https://www.investopedia.com/terms/forex/f/forex-market.asp#ixzz55gBfi6li
+    Follow us: Investopedia on Facebook
+
+</p>
+
+<h2>Operating hours</h2>
+
+<p>From Monday morning in Asia, to Friday afternoon in New York, the forex market is a 24-hour market, meaning it does not close overnight. This differs from markets such as equities, bonds, and commodities, which all close for a period of time, generally in the New York late afternoon. However, as with most things there are exceptions. Some emerging market currencies closing for a period of time during the trading day.
+
+Read more: Forex Market | Investopedia https://www.investopedia.com/terms/forex/f/forex-market.asp#ixzz55gC9BXPJ
+Follow us: Investopedia on Facebook
+</p>
+
+<h2>The Big Players</h2>
+
+<p>The US dollar is by far the most traded currency, making up close to 85 percent of all trades. Second is the euro, which is part of 39 percent of all currency trades, and third is the Japanese yen at 19 percent. (Note: these figures do not total 100 percent because there are two sides to every FX transaction).
+
+According to the 2015 Euromoney survey, Citigroup and Deutsche Bank were the two biggest banks in the forex market, combining for more that 30 percent of the global market share.
+
+Read more: Forex Market | Investopedia https://www.investopedia.com/terms/forex/f/forex-market.asp#ixzz55gCGiZ1q
+Follow us: Investopedia on Facebook
+</p>
+
+
+<script>
+    var usd = document.getElementById("usd");
+    var chf = document.getElementById("chf");
+    var jpy = document.getElementById("jpy");
+    var eur = document.getElementById("eur");
+
+    function usdfunc() {
+        chf.value = usd.value * 1.0707899;
+        jpy.value = usd.value * 0.009186;
+        eur.value = usd.value * 0.80206;
+    }
+
+    function chffunc() {
+        usd.value = chf.value * 1.072048;
+        jpy.value = chf.value * 116.68852;
+        eur.value = chf.value * 0.85968;
+    }
+
+    function jpyfunc() {
+        usd.value = jpy.value * 0.0092;
+        chf.value = jpy.value * 0.0086;
+        eur.value = jpy.value * 0.0074;
+    }
+
+    function eurfunc() {
+        usd.value = eur.value * 1.25;
+        chf.value = eur.value * 1.16;
+        jpy.value = eur.value * 135.78;
+    }
+
+</script>

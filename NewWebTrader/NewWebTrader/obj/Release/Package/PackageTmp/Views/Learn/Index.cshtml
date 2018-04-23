@@ -1,0 +1,92 @@
+﻿
+@{
+    ViewBag.Title = "Tutorials";
+    Layout = "~/Views/Shared/_LayoutLearn.cshtml";
+}
+
+<title>About</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="pages.css">
+<link rel="stylesheet" type="text/css" href="nav.css">
+
+
+@Styles.Render("~/AdminLTE/plugins/font-awesome/css")
+@Styles.Render("~/AdminLTE/plugins/ionicons/css")
+@Styles.Render("~/AdminLTE/bootstrap/css")
+@Styles.Render("~/AdminLTE/dist/css")
+@Styles.Render("~/AdminLTE/dist/css/skins")
+<link href="~/AdminLTE/alert/iao-alert.css" rel="stylesheet" />
+<link href="~/AdminLTE/alert/jquery-confirm.css" rel="stylesheet" />
+<body background="~/Content/Image/pdfpage.png">
+<div class="row">
+    <div class="col-md-10">
+        <!-- TABLE: LATEST ORDERS -->
+        <div class="box box-info">
+            <div class="box-header with-border">
+                <h3 class="box-title">Download Tutorials</h3>
+
+            </div>
+            <!-- /.box-header -->
+            <div class="box-body">
+                <div class="table-responsive">
+
+
+                            <table class="table">
+
+
+                                <thead>
+                                    <tr>
+                                        <th style="width:100px">ID</th>
+                                        <th style="width:1000px">File Name</th>
+                                        <th>Download</th>
+                                    </tr>
+                                </thead>
+ 
+                                <tbody>
+
+@if (ViewBag.A != null)
+{
+    // @ViewBag.A
+    foreach (var x in ViewBag.A)
+    {
+                                    <tr>
+                                        <td>@x.FileId</td>
+                                        <td>@x.FileName</td>
+                          
+                                        <td>
+                                            @using (Html.BeginForm("Download", "Learn"))
+                                            {
+                                                <input type="hidden" name="FileId" value="@x.FileId" />
+                                                <input class="btn btn-success" type="submit" value="download" />
+                                            }
+                                        </td>
+
+                                    </tr>
+    }
+}
+                                </tbody>
+                            </table>
+
+                </div>
+                <!-- /.table-responsive -->
+            </div>
+            <!-- /.box-body -->
+            <!-- /.box-footer -->
+        </div>
+        <!-- /.box -->
+    </div>
+    <!-- /.col -->
+</div>
+
+
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+</body>
+
+

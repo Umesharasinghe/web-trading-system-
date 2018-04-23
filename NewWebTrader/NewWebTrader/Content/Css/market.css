@@ -1,0 +1,53 @@
+
+.instrument
+{
+    max-width: 330px;
+    padding: 18px;
+    margin:auto;	
+	float:center;
+	
+}
+.bg{
+ background-image:url("bg2.jpg");
+    height: 100%; 
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+	
+}
+
+
+.btn-default{
+font-family: "Trebuchet MS";
+font-size:25px;
+color:#FFF;
+
+background-color:#00264d;
+border:1.5px solid #c6d9ec;
+}
+.ins-wall{
+  
+   width:350px;
+   height:200px;
+	margin:20% auto;
+	
+    padding: 53px ;
+    background-color: #0a1010;
+    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	 opacity: 0.8;
+	float:center;
+	border-radius:3%;
+
+	
+}
+
+.ins-wall:hover{
+	
+    opacity: 1.0;
+	
+}
+
+<div style="height:300px;position:relative;text-align:center;margin-top:15%">
+	<div id="right" style="float:left; width:50%;">

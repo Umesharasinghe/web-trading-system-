@@ -1,0 +1,16 @@
+﻿@model NewWebTrader.Models.EnterData
+@{
+    ViewBag.Title = "EMA";
+    Layout = "~/Views/Shared/LayoutIndicators.cshtml";
+}
+
+<h2>EMA</h2>
+
+@if (ViewBag.A != null)
+{
+    @ViewBag.A
+    foreach (var x in ViewBag.A)
+    {
+        <p>@x</p>
+    }
+}

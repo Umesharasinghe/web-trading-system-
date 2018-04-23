@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<ul class="timeline">
+    <li>
+        <div class="timeline-item">
+
+            <h2 class="timeline-header"> Annual Reports</h2>
+
+            <div class="timeline-body">
+                <div class="row">
+                    @foreach (var x in ViewBag.A)
+                    {
+                        <div class="col-md-3">
+                            <a href="@x.FilePath">
+                                <img style="width:200px; height:auto" src="@x.ImgPath" alt="..." class="margin">
+                                <div class="row">
+                                    <div class="col-sm-4 col-sm-offset-4">
+                                        <p style="font-size:20px; color:black; font-weight:bold">@x.FileName</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+
+                    }
+                </div>
+
+            </div>
+        </div>
+    </li>
+</ul>
+
+<div style="height:200px;">
+
+</div>

@@ -1,0 +1,117 @@
+﻿@using NewWebTrader.Models
+@model LoginViewModel
+@{
+    ViewBag.Title = "Log in";
+}
+
+<h2>@ViewBag.Title</h2>
+@*@<div class="row">
+    <div class="col-md-8">
+        <section id="loginForm">
+            @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+            {
+                @Html.AntiForgeryToken()
+                <h4>Use a local account to log in.</h4>
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.LabelFor(m => m.UserName, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.UserName, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.UserName, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <div class="checkbox">
+                            @Html.CheckBoxFor(m => m.RememberMe)
+                            @Html.LabelFor(m => m.RememberMe)
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Log in" class="btn btn-default" />
+                    </div>
+                </div>
+                <p>
+                    @Html.ActionLink("Register as a new user", "Register")
+                </p>
+                @* Enable this once you have account confirmation enabled for password reset functionality
+                    <p>
+                        @Html.ActionLink("Forgot your password?", "ForgotPassword")
+                    </p>
+            }
+        </section>
+    </div>
+    <div class="col-md-4">
+        <section id="socialLoginForm">
+            @Html.Partial("_ExternalLoginsListPartial", new ExternalLoginListViewModel { ReturnUrl = ViewBag.ReturnUrl })
+        </section>
+    </div>
+</div>*@
+
+
+
+<div class="fullscreen-bg">
+    <video autoplay loop muted poster="Finance.jpg" id="video-background">
+        <source src="~/Content/image/anime.mp4" type="video/mp4">
+    </video>
+    <div id="container" style="width:100%;">
+        @if (!User.Identity.IsAuthenticated)
+            {
+            <div id="right" style="float:right; width:50%;">
+                <div class="sidePanel">
+                    <div class="account-wall">
+                        <h1 class="login-title"><center>WebTrader</center></h1>
+
+
+                        @using (Html.BeginForm("Login", "Account", FormMethod.Post, new { role = "form" }))
+                        {
+                            @Html.ValidationSummary("", new { @class = "text-danger" })
+                            @Html.AntiForgeryToken()
+                            @Html.TextBoxFor(m => m.UserName, new { @class = "form-control" })
+                            @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                            <button class="btn btn-lg btn-primary btn-block" type="submit">
+                                Sign in
+                            </button>
+                            <label class="checkbox pull-left">
+                                @Html.CheckBoxFor(m => m.RememberMe)
+                                @Html.LabelFor(m => m.RememberMe)
+                            </label>
+                                <a href="#" class="pull-right need-help">Need help? </a><span class="clearfix"></span>
+                                <p><center>or</center></p>
+                                @Html.ActionLink("Register as a new user", "Register", "Account", null, new { @class = "btn btn-danger btn-block" })
+                        }
+                    </div>
+                </div>
+
+
+            </div>
+        }
+        else
+        {
+            <div id="right" style="float:right; width:50%;">
+                <div class="sidePanel">
+                    <div class="account-wall" style="opacity:initial">
+                        <h1 class="login-title"><center>Welcome to WebTrader</center></h1>
+                        <p style="color:white;">The foreign exchange market is the "place" where currencies are traded. Currencies are important to most people around the world, whether they realize it or not, because currencies need to be exchanged in order to conduct foreign trade and business. If you are living in the U.S. and want to buy cheese from France, either you or the company that you buy the cheese from has to pay the French for the cheese in euros (EUR). This means that the U.S. importer would have to exchange the equivalent value of U.S. dollars (USD) into euros. The same goes for traveling. A French tourist in Egypt can't pay in euros to see the pyramids because it's not the locally accepted currency. As such, the tourist has to exchange the euros for the local currency, in this case the Egyptian pound, at the current exchange rate. </p>
+                    </div>
+                </div>
+            </div>
+
+        }
+
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
